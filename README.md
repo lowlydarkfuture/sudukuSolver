@@ -1,6 +1,6 @@
 # sudukuSolver
 
-This program is set up as an Eclipse project utilizing Java SDK 1.7. 
+This program is set up as an Eclipse project utilizing Java SDK 1.7.
 
 This program is a work in progress. Currently the project is only runable with thru J-unit testing since no user interface currently exists.
 
